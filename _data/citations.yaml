@@ -1,221 +1,1112 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2024.05.07.593052
+  title: Profiling genetically driven alternative splicing across the Indonesian Archipelago
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Neke Ibeh
+  - Pradiptajati Kusuma
+  - Chelzie Crenna Darusallam
+  - Safarina Malik
+  - Herawati Sudoyo
+  - Davis J. McCarthy
+  - Irene Gallego Romero
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-05-08'
+  link: https://doi.org/gtxsrh
+  orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.46471/gigabyte.118
+  title: De novo transcriptome assembly and genome annotation of the fat-tailed dunnart
+    (Sminthopsis crassicaudata)
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Neke Ibeh
+  - Charles Y. Feigin
+  - Stephen R. Frankenberg
+  - Davis J. McCarthy
+  - Andrew J. Pask
+  - Irene Gallego Romero
+  publisher: Gigabyte
+  date: '2024-05-02'
+  link: https://doi.org/gtxsrg
+  orcid: 0000-0003-1613-8998
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - marsupials
+- id: doi:10.1101/2023.11.16.567318
+  title: <i>De novo</i>transcriptome assembly and genome annotation of the fat-tailed
+    dunnart (<i>Sminthopsis crassicaudata</i>)
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Neke Ibeh
+  - Charles Y. Feigin
+  - Stephen R. Frankenberg
+  - Davis J. McCarthy
+  - Andrew J. Pask
+  - Irene Gallego Romero
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2023-11-17'
+  link: https://doi.org/gtxsrj
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.13.528361
+  title: <i>Cis</i>-regulatory landscapes of the fat-tailed dunnart and mouse provide
+    insights into the drivers of craniofacial heterochrony
+  authors:
+  - Laura E. Cook
+  - Charles Y. Feigin
+  - Davide M. Vespasiani
+  - Andrew J. Pask
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-14'
+  link: https://doi.org/gtxsrk
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-023-02856-6
+  title: Leveraging massively parallel reporter assays for evolutionary questions
+  authors:
+  - Irene Gallego Romero
+  - Amanda J. Lea
+  publisher: Genome Biology
+  date: '2023-02-14'
+  link: https://doi.org/gtxsrm
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1010470
+  title: Denisovan introgression has shaped the immune system of present-day Papuans
+  authors:
+  - Davide M. Vespasiani
+  - Guy S. Jacobs
+  - Laura E. Cook
+  - Nicolas Brucato
+  - Matthew Leavesley
+  - Christopher Kinipi
+  - "Fran\xE7ois-Xavier Ricaut"
+  - Murray P. Cox
+  - Irene Gallego Romero
+  publisher: PLOS Genetics
+  date: '2022-12-08'
+  link: https://doi.org/grf6th
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/febs.15885
+  title: Harnessing pluripotent stem cells as models to decipher human evolution
+  authors:
+  - Michael Dannemann
+  - Irene Gallego Romero
+  publisher: The FEBS Journal
+  date: '2021-04-30'
+  link: https://doi.org/gtxsrn
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41576-022-00469-6
+  title: Genome-wide insights into human population structure
+  authors:
+  - Irene Gallego Romero
+  publisher: Nature Reviews Genetics
+  date: '2022-03-10'
+  link: https://doi.org/gtxsrp
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.04.24.489025
+  title: The whole blood microbiome of Indonesians reveals translocated and pathogenic
+    microbiota
+  authors:
+  - Katalina Bobowik
+  - Muhamad Fachrul
+  - Chelzie Crenna Darusallam
+  - Pradiptajati Kusuma
+  - Herawati Sudoyo
+  - Clarissa A. Febinia
+  - Safarina G. Malik
+  - Christine Wells
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-25'
+  link: https://doi.org/gtxsrq
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.27.450107
+  title: Genetic diversity in chimpanzee transcriptomics does not represent wild populations
+  authors:
+  - Navya Shukla
+  - Bobbie Shaban
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-28'
+  link: https://doi.org/gtxsrr
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.07.425684
+  title: Transcriptomic profiles of <i>Plasmodium falciparum</i> and <i>Plasmodium
+    vivax</i>-infected individuals in Indonesia
+  authors:
+  - Katalina Bobowik
+  - Din Syafruddin
+  - Chelzie Crenna Darusallam
+  - Herawati Sudoyo
+  - Christine Wells
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-01-08'
+  link: https://doi.org/gszbbg
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.25.313726
+  title: Genetic architecture of gene regulation in Indonesian populations identifies
+    QTLs associated with local ancestry and archaic introgression
+  authors:
+  - Heini M. Natri
+  - Georgi Hudjashov
+  - Guy Jacobs
+  - Pradiptajati Kusuma
+  - Lauri Saag
+  - Chelzie Crenna Darusallam
+  - Mait Metspalu
+  - Herawati Sudoyo
+  - Murray P. Cox
+  - Irene Gallego Romero
+  - Nicholas E. Banovich
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-25'
+  link: https://doi.org/gtxsrs
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.07.09.196444
+  title: Denisovan introgression has shaped the immune system of present-day Papuans
+  authors:
+  - Davide M. Vespasiani
+  - Guy S. Jacobs
+  - Laura E. Cook
+  - Nicolas Brucato
+  - Matthew Leavesley
+  - Christopher Kinipi
+  - Francois-Xavier Ricaut
+  - Murray P. Cox
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-09'
+  link: https://doi.org/gtxsrt
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msz037
+  title: Ancestry-Specific Analyses Reveal Differential Demographic Histories and
+    Opposite Selective Pressures in Modern South Asian Populations
+  authors:
+  - Burak Yelmen
+  - Mayukh Mondal
+  - Davide Marnetto
+  - Ajai K Pathak
+  - Francesco Montinaro
+  - Irene Gallego Romero
+  - Toomas Kivisild
+  - Mait Metspalu
+  - Luca Pagani
+  publisher: Molecular Biology and Evolution
+  date: '2019-04-05'
+  link: https://doi.org/ggq53g
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/704304
+  title: Genome-wide DNA methylation and gene expression patterns reflect genetic
+    ancestry and environmental differences across the Indonesian archipelago
+  authors:
+  - Heini Natri
+  - Katalina S. Bobowik
+  - Pradiptajati Kusuma
+  - Chelzie Crenna Darusallam
+  - Guy S. Jacobs
+  - Georgi Hudjashov
+  - J. Stephen Lansing
+  - Herawati Sudoyo
+  - Nicholas E. Banovich
+  - Murray P. Cox
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-07-16'
+  link: https://doi.org/gkvx8v
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/466631
+  title: Widespread conservation of chromatin accessibility patterns and transcription
+    factor binding in human and chimpanzee induced pluripotent stem cells
+  authors:
+  - Irene Gallego Romero
+  - Shyam Gopalakrishnan
+  - Yoav Gilad
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-11-09'
+  link: https://doi.org/gfjwmz
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1005793
+  title: Genetic Variation, Not Cell Type of Origin, Underlies the Majority of Identifiable
+    Regulatory Differences in iPSCs
+  authors:
+  - Courtney K. Burrows
+  - Nicholas E. Banovich
+  - Bryan J. Pavlovic
+  - Kristen Patterson
+  - Irene Gallego Romero
+  - Jonathan K. Pritchard
+  - Yoav Gilad
+  publisher: PLOS Genetics
+  date: '2016-01-26'
+  link: https://doi.org/f78jp9
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature18964
+  title: 'The Simons Genome Diversity Project: 300 genomes from 142 diverse populations'
+  authors:
+  - Swapan Mallick
+  - Heng Li
+  - Mark Lipson
+  - Iain Mathieson
+  - Melissa Gymrek
+  - Fernando Racimo
+  - Mengyao Zhao
+  - Niru Chennagiri
+  - Susanne Nordenfelt
+  - Arti Tandon
+  - Pontus Skoglund
+  - Iosif Lazaridis
+  - Sriram Sankararaman
+  - Qiaomei Fu
+  - Nadin Rohland
+  - Gabriel Renaud
+  - Yaniv Erlich
+  - Thomas Willems
+  - Carla Gallo
+  - Jeffrey P. Spence
+  - Yun S. Song
+  - Giovanni Poletti
+  - Francois Balloux
+  - George van Driem
+  - Peter de Knijff
+  - Irene Gallego Romero
+  - Aashish R. Jha
+  - Doron M. Behar
+  - Claudio M. Bravi
+  - Cristian Capelli
+  - Tor Hervig
+  - Andres Moreno-Estrada
+  - Olga L. Posukh
+  - Elena Balanovska
+  - Oleg Balanovsky
+  - Sena Karachanak-Yankova
+  - Hovhannes Sahakyan
+  - Draga Toncheva
+  - Levon Yepiskoposyan
+  - Chris Tyler-Smith
+  - Yali Xue
+  - M. Syafiq Abdullah
+  - Andres Ruiz-Linares
+  - Cynthia M. Beall
+  - Anna Di Rienzo
+  - Choongwon Jeong
+  - Elena B. Starikovskaya
+  - Ene Metspalu
+  - "J\xFCri Parik"
+  - Richard Villems
+  - Brenna M. Henn
+  - Ugur Hodoglugil
+  - Robert Mahley
+  - Antti Sajantila
+  - George Stamatoyannopoulos
+  - Joseph T. S. Wee
+  - Rita Khusainova
+  - Elza Khusnutdinova
+  - Sergey Litvinov
+  - George Ayodo
+  - David Comas
+  - Michael F. Hammer
+  - Toomas Kivisild
+  - William Klitz
+  - Cheryl A. Winkler
+  - Damian Labuda
+  - Michael Bamshad
+  - Lynn B. Jorde
+  - Sarah A. Tishkoff
+  - W. Scott Watkins
+  - Mait Metspalu
+  - Stanislav Dryomov
+  - Rem Sukernik
+  - Lalji Singh
+  - Kumarasamy Thangaraj
+  - "Svante P\xE4\xE4bo"
+  - Janet Kelso
+  - Nick Patterson
+  - David Reich
+  publisher: Nature
+  date: '2016-09-21'
+  link: https://doi.org/f89kss
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aab3761
+  title: Global diversity, population stratification, and selection of human copy-number
+    variation
+  authors:
+  - Peter H. Sudmant
+  - Swapan Mallick
+  - Bradley J. Nelson
+  - Fereydoun Hormozdiari
+  - Niklas Krumm
+  - John Huddleston
+  - Bradley P. Coe
+  - Carl Baker
+  - Susanne Nordenfelt
+  - Michael Bamshad
+  - Lynn B. Jorde
+  - Olga L. Posukh
+  - Hovhannes Sahakyan
+  - W. Scott Watkins
+  - Levon Yepiskoposyan
+  - M. Syafiq Abdullah
+  - Claudio M. Bravi
+  - Cristian Capelli
+  - Tor Hervig
+  - Joseph T. S. Wee
+  - Chris Tyler-Smith
+  - George van Driem
+  - Irene Gallego Romero
+  - Aashish R. Jha
+  - Sena Karachanak-Yankova
+  - Draga Toncheva
+  - David Comas
+  - Brenna Henn
+  - Toomas Kivisild
+  - Andres Ruiz-Linares
+  - Antti Sajantila
+  - Ene Metspalu
+  - "J\xFCri Parik"
+  - Richard Villems
+  - Elena B. Starikovskaya
+  - George Ayodo
+  - Cynthia M. Beall
+  - Anna Di Rienzo
+  - Michael F. Hammer
+  - Rita Khusainova
+  - Elza Khusnutdinova
+  - William Klitz
+  - Cheryl Winkler
+  - Damian Labuda
+  - Mait Metspalu
+  - Sarah A. Tishkoff
+  - Stanislav Dryomov
+  - Rem Sukernik
+  - Nick Patterson
+  - David Reich
+  - Evan E. Eichler
+  publisher: Science
+  date: '2015-09-11'
+  link: https://doi.org/f7q8ft
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.07103
+  title: 'A panel of induced pluripotent stem cells from chimpanzees: a resource for
+    comparative functional genomics'
+  authors:
+  - Irene Gallego Romero
+  - Bryan J Pavlovic
+  - Irene Hernando-Herraez
+  - Xiang Zhou
+  - Michelle C Ward
+  - Nicholas E Banovich
+  - Courtney L Kagan
+  - Jonathan E Burnett
+  - Constance H Huang
+  - Amy Mitrano
+  - Claudia I Chavarria
+  - Inbar Friedrich Ben-Nun
+  - Yingchun Li
+  - Karen Sabatini
+  - Trevor R Leonardo
+  - Mana Parast
+  - Tomas Marques-Bonet
+  - Louise C Laurent
+  - Jeanne F Loring
+  - Yoav Gilad
+  publisher: eLife
+  date: '2015-06-23'
+  link: https://doi.org/gm9vdz
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0118307
+  title: Increased Risk of Genetic and Epigenetic Instability in Human Embryonic Stem
+    Cells Associated with Specific Culture Conditions
+  authors:
+  - Ibon Garitaonandia
+  - Hadar Amir
+  - Francesca Sesillo Boscolo
+  - Gerald K. Wambua
+  - Heather L. Schultheisz
+  - Karen Sabatini
+  - Robert Morey
+  - Shannon Waltz
+  - Yu-Chieh Wang
+  - Ha Tran
+  - Trevor R. Leonardo
+  - Kristopher Nazor
+  - Ileana Slavin
+  - Candace Lynch
+  - Yingchun Li
+  - Ronald Coleman
+  - Irene Gallego Romero
+  - Gulsah Altun
+  - David Reynolds
+  - Stephen Dalton
+  - Mana Parast
+  - Jeanne F. Loring
+  - Louise C. Laurent
+  publisher: PLOS ONE
+  date: '2015-02-25'
+  link: https://doi.org/f68jct
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature13673
+  title: Ancient human genomes suggest three ancestral populations for present-day
+    Europeans
+  authors:
+  - Iosif Lazaridis
+  - Nick Patterson
+  - Alissa Mittnik
+  - Gabriel Renaud
+  - Swapan Mallick
+  - Karola Kirsanow
+  - Peter H. Sudmant
+  - Joshua G. Schraiber
+  - Sergi Castellano
+  - Mark Lipson
+  - Bonnie Berger
+  - Christos Economou
+  - Ruth Bollongino
+  - Qiaomei Fu
+  - Kirsten I. Bos
+  - Susanne Nordenfelt
+  - Heng Li
+  - Cesare de Filippo
+  - "Kay Pr\xFCfer"
+  - Susanna Sawyer
+  - Cosimo Posth
+  - Wolfgang Haak
+  - Fredrik Hallgren
+  - Elin Fornander
+  - Nadin Rohland
+  - Dominique Delsate
+  - Michael Francken
+  - Jean-Michel Guinet
+  - Joachim Wahl
+  - George Ayodo
+  - Hamza A. Babiker
+  - Graciela Bailliet
+  - Elena Balanovska
+  - Oleg Balanovsky
+  - Ramiro Barrantes
+  - Gabriel Bedoya
+  - Haim Ben-Ami
+  - Judit Bene
+  - Fouad Berrada
+  - Claudio M. Bravi
+  - Francesca Brisighelli
+  - George B. J. Busby
+  - Francesco Cali
+  - Mikhail Churnosov
+  - David E. C. Cole
+  - Daniel Corach
+  - Larissa Damba
+  - George van Driem
+  - Stanislav Dryomov
+  - Jean-Michel Dugoujon
+  - Sardana A. Fedorova
+  - Irene Gallego Romero
+  - Marina Gubina
+  - Michael Hammer
+  - Brenna M. Henn
+  - Tor Hervig
+  - Ugur Hodoglugil
+  - Aashish R. Jha
+  - Sena Karachanak-Yankova
+  - Rita Khusainova
+  - Elza Khusnutdinova
+  - Rick Kittles
+  - Toomas Kivisild
+  - William Klitz
+  - "Vaidutis Ku\u010Dinskas"
+  - Alena Kushniarevich
+  - Leila Laredj
+  - Sergey Litvinov
+  - Theologos Loukidis
+  - Robert W. Mahley
+  - "B\xE9la Melegh"
+  - Ene Metspalu
+  - Julio Molina
+  - Joanna Mountain
+  - "Klemetti N\xE4kk\xE4l\xE4j\xE4rvi"
+  - Desislava Nesheva
+  - Thomas Nyambo
+  - Ludmila Osipova
+  - "J\xFCri Parik"
+  - Fedor Platonov
+  - Olga Posukh
+  - Valentino Romano
+  - Francisco Rothhammer
+  - Igor Rudan
+  - Ruslan Ruizbakiev
+  - Hovhannes Sahakyan
+  - Antti Sajantila
+  - Antonio Salas
+  - Elena B. Starikovskaya
+  - Ayele Tarekegn
+  - Draga Toncheva
+  - Shahlo Turdikulova
+  - Ingrida Uktveryte
+  - Olga Utevska
+  - "Ren\xE9 Vasquez"
+  - Mercedes Villena
+  - Mikhail Voevoda
+  - Cheryl A. Winkler
+  - Levon Yepiskoposyan
+  - Pierre Zalloua
+  - Tatijana Zemunik
+  - Alan Cooper
+  - Cristian Capelli
+  - Mark G. Thomas
+  - Andres Ruiz-Linares
+  - Sarah A. Tishkoff
+  - Lalji Singh
+  - Kumarasamy Thangaraj
+  - Richard Villems
+  - David Comas
+  - Rem Sukernik
+  - Mait Metspalu
+  - Matthias Meyer
+  - Evan E. Eichler
+  - Joachim Burger
+  - Montgomery Slatkin
+  - "Svante P\xE4\xE4bo"
+  - Janet Kelso
+  - David Reich
+  - Johannes Krause
+  publisher: Nature
+  date: '2014-09-01'
+  link: https://doi.org/w2w
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0098076
+  title: Genome-Wide Analysis of Cold Adaptation in Indigenous Siberian Populations
+  authors:
+  - Alexia Cardona
+  - Luca Pagani
+  - Tiago Antao
+  - Daniel J. Lawson
+  - Christina A. Eichstaedt
+  - Bryndis Yngvadottir
+  - Ma Than Than Shwe
+  - Joseph Wee
+  - Irene Gallego Romero
+  - Srilakshmi Raj
+  - Mait Metspalu
+  - Richard Villems
+  - Eske Willerslev
+  - Chris Tyler-Smith
+  - Boris A. Malyarchuk
+  - Miroslava V. Derenko
+  - Toomas Kivisild
+  publisher: PLoS ONE
+  date: '2014-05-21'
+  link: https://doi.org/f58gd9
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1741-7007-12-42
+  title: 'RNA-seq: impact of RNA degradation on transcript quantification'
+  authors:
+  - Irene Gallego Romero
+  - Athma A Pai
+  - Jenny Tung
+  - Yoav Gilad
+  publisher: BMC Biology
+  date: '2014-05-30'
+  link: https://doi.org/f59ztg
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1003912
+  title: The Light Skin Allele of SLC24A5 in South Asians and Europeans Shares Identity
+    by Descent
+  authors:
+  - Chandana Basu Mallick
+  - Florin Mircea Iliescu
+  - "M\xE4rt M\xF6ls"
+  - Sarah Hill
+  - Rakesh Tamang
+  - Gyaneshwer Chaubey
+  - Rie Goto
+  - Simon Y. W. Ho
+  - Irene Gallego Romero
+  - Federica Crivellaro
+  - Georgi Hudjashov
+  - Niraj Rai
+  - Mait Metspalu
+  - C. G. Nicholas Mascie-Taylor
+  - Ramasamy Pitchappan
+  - Lalji Singh
+  - Marta Mirazon-Lahr
+  - Kumarasamy Thangaraj
+  - Richard Villems
+  - Toomas Kivisild
+  publisher: PLoS Genetics
+  date: '2013-11-07'
+  link: https://doi.org/gbfk5w
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2156-14-87
+  title: A general linear model-based approach for inferring selection to climate
+  authors:
+  - Srilakshmi M Raj
+  - Luca Pagani
+  - Irene Gallego Romero
+  - Toomas Kivisild
+  - William Amos
+  publisher: BMC Genetics
+  date: '2013-09-22'
+  link: https://doi.org/gb3dnh
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ahg.12028
+  title: Variation at Diabetes- and Obesity-Associated Loci May Mirror Neutral Patterns
+    of Human Population Diversity and Diabetes Prevalence in India
+  authors:
+  - Srilakshmi M. Raj
+  - Pradeep Halebeedu
+  - Jayarama S Kadandale
+  - Marta Mirazon Lahr
+  - Irene Gallego Romero
+  - Jamuna R. Yadhav
+  - Mircea Iliescu
+  - Niraj Rai
+  - Federica Crivellaro
+  - Gyaneshwer Chaubey
+  - Richard Villems
+  - Kumarasamy Thangaraj
+  - Kalappagowda Muniyappa
+  - H. Sharat Chandra
+  - Toomas Kivisild
+  publisher: Annals of Human Genetics
+  date: '2013-07-01'
+  link: https://doi.org/f5p8kz
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3378/027.085.0313
+  title: 'Evolution of the Pygmy Phenotype: Evidence of Positive Selection from Genome-wide
+    Scans in African, Asian, and Melanesian Pygmies'
+  authors:
+  - Andrea Bamberg Migliano
+  - Irene Gallego Romero
+  - Mait Metspalu
+  - Matthew Leavesley
+  - Luca Pagani
+  - Tiago Antao
+  - Da-Wei Huang
+  - Brad T. Sherman
+  - Katharine Siddle
+  - Clarissa Scholes
+  - Georgi Hudjashov
+  - Elton Kaitokai
+  - Avis Babalu
+  - Maggie Belatti
+  - Alex Cagan
+  - Bryony Hopkinshaw
+  - Colin Shaw
+  - Mari Nelis
+  - Ene Metspalu
+  - "Reedik M\xE4gi"
+  - Richard A. Lempicki
+  - Richard Villems
+  - Marta Mirazon Lahr
+  - Toomas Kivisild
+  publisher: Human Biology
+  date: '2013-06-01'
+  link: https://doi.org/gtxsrv
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nrg3229
+  title: Comparative studies of gene expression and the evolution of gene regulation
+  authors:
+  - Irene Gallego Romero
+  - Ilya Ruvinsky
+  - Yoav Gilad
+  publisher: Nature Reviews Genetics
+  date: '2012-06-18'
+  link: https://doi.org/f33cpq
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2012.05.015
+  title: Ethiopian Genetic Diversity Reveals Linguistic Stratification and Complex
+    Influences on the Ethiopian Gene Pool
+  authors:
+  - Luca Pagani
+  - Toomas Kivisild
+  - Ayele Tarekegn
+  - Rosemary Ekong
+  - Chris Plaster
+  - "Irene Gallego\_Romero"
+  - Qasim Ayub
+  - "S.\_Qasim Mehdi"
+  - "Mark\_G. Thomas"
+  - Donata Luiselli
+  - Endashaw Bekele
+  - Neil Bradman
+  - "David\_J. Balding"
+  - Chris Tyler-Smith
+  publisher: The American Journal of Human Genetics
+  date: '2012-07-01'
+  link: https://doi.org/gcw8ph
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00439-011-1111-9
+  title: Exploration of signals of positive selection derived from genotype-based
+    human genome scans using re-sequencing data
+  authors:
+  - Min Hu
+  - Qasim Ayub
+  - "Jos\xE9 Afonso Guerra-Assun\xE7\xE3o"
+  - Quan Long
+  - Zemin Ning
+  - Ni Huang
+  - Irene Gallego Romero
+  - Lira Mamanova
+  - Pelin Akan
+  - Xin Liu
+  - Alison J. Coffey
+  - Daniel J. Turner
+  - Harold Swerdlow
+  - John Burton
+  - Michael A. Quail
+  - Donald F. Conrad
+  - Anton J. Enright
+  - Chris Tyler-Smith
+  - Yali Xue
+  publisher: Human Genetics
+  date: '2011-11-05'
+  link: https://doi.org/bjnjgd
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1215040
+  title: A Systematic Survey of Loss-of-Function Variants in Human Protein-Coding
+    Genes
+  authors:
+  - Daniel G. MacArthur
+  - Suganthi Balasubramanian
+  - Adam Frankish
+  - Ni Huang
+  - James Morris
+  - Klaudia Walter
+  - Luke Jostins
+  - Lukas Habegger
+  - Joseph K. Pickrell
+  - Stephen B. Montgomery
+  - Cornelis A. Albers
+  - Zhengdong D. Zhang
+  - Donald F. Conrad
+  - Gerton Lunter
+  - Hancheng Zheng
+  - Qasim Ayub
+  - Mark A. DePristo
+  - Eric Banks
+  - Min Hu
+  - Robert E. Handsaker
+  - Jeffrey A. Rosenfeld
+  - Menachem Fromer
+  - Mike Jin
+  - Xinmeng Jasmine Mu
+  - Ekta Khurana
+  - Kai Ye
+  - Mike Kay
+  - Gary Ian Saunders
+  - Marie-Marthe Suner
+  - Toby Hunt
+  - If H. A. Barnes
+  - Clara Amid
+  - Denise R. Carvalho-Silva
+  - Alexandra H. Bignell
+  - Catherine Snow
+  - Bryndis Yngvadottir
+  - Suzannah Bumpstead
+  - David N. Cooper
+  - Yali Xue
+  - Irene Gallego Romero
+  - Jun Wang
+  - Yingrui Li
+  - Richard A. Gibbs
+  - Steven A. McCarroll
+  - Emmanouil T. Dermitzakis
+  - Jonathan K. Pritchard
+  - Jeffrey C. Barrett
+  - Jennifer Harrow
+  - Matthew E. Hurles
+  - Mark B. Gerstein
+  - Chris Tyler-Smith
+  publisher: Science
+  date: '2012-02-17'
+  link: https://doi.org/gfw8g2
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2011.11.010
+  title: Shared and Unique Components of Human Population Structure and Genome-Wide
+    Signals of Positive Selection in South Asia
+  authors:
+  - Mait Metspalu
+  - "Irene\_Gallego Romero"
+  - Bayazit Yunusbayev
+  - Gyaneshwer Chaubey
+  - "Chandana\_Basu Mallick"
+  - Georgi Hudjashov
+  - Mari Nelis
+  - "Reedik M\xE4gi"
+  - Ene Metspalu
+  - Maido Remm
+  - Ramasamy Pitchappan
+  - Lalji Singh
+  - Kumarasamy Thangaraj
+  - Richard Villems
+  - Toomas Kivisild
+  publisher: The American Journal of Human Genetics
+  date: '2011-12-01'
+  link: https://doi.org/fqh4jg
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msr190
+  title: Herders of Indian and European Cattle Share Their Predominant Allele for
+    Lactase Persistence
+  authors:
+  - Irene Gallego Romero
+  - Chandana Basu Mallick
+  - Anke Liebert
+  - Federica Crivellaro
+  - Gyaneshwer Chaubey
+  - Yuval Itan
+  - Mait Metspalu
+  - Muthukrishnan Eaaswarkhanth
+  - Ramasamy Pitchappan
+  - Richard Villems
+  - David Reich
+  - Lalji Singh
+  - Kumarasamy Thangaraj
+  - Mark G. Thomas
+  - Dallas M. Swallow
+  - "Marta Miraz\xF3n Lahr"
+  - Toomas Kivisild
+  publisher: Molecular Biology and Evolution
+  date: '2011-08-11'
+  link: https://doi.org/fw9j72
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1211177
+  title: An Aboriginal Australian Genome Reveals Separate Human Dispersals into Asia
+  authors:
+  - Morten Rasmussen
+  - Xiaosen Guo
+  - Yong Wang
+  - Kirk E. Lohmueller
+  - Simon Rasmussen
+  - Anders Albrechtsen
+  - Line Skotte
+  - Stinus Lindgreen
+  - Mait Metspalu
+  - Thibaut Jombart
+  - Toomas Kivisild
+  - Weiwei Zhai
+  - Anders Eriksson
+  - Andrea Manica
+  - Ludovic Orlando
+  - Francisco M. De La Vega
+  - Silvana Tridico
+  - Ene Metspalu
+  - Kasper Nielsen
+  - "Mar\xEDa C. \xC1vila-Arcos"
+  - "J. V\xEDctor Moreno-Mayar"
+  - Craig Muller
+  - Joe Dortch
+  - M. Thomas P. Gilbert
+  - Ole Lund
+  - Agata Wesolowska
+  - Monika Karmin
+  - Lucy A. Weinert
+  - Bo Wang
+  - Jun Li
+  - Shuaishuai Tai
+  - Fei Xiao
+  - Tsunehiko Hanihara
+  - George van Driem
+  - Aashish R. Jha
+  - "Fran\xE7ois-Xavier Ricaut"
+  - Peter de Knijff
+  - Andrea B Migliano
+  - Irene Gallego Romero
+  - Karsten Kristiansen
+  - David M. Lambert
+  - "S\xF8ren Brunak"
+  - Peter Forster
+  - Bernd Brinkmann
+  - Olaf Nehlich
+  - Michael Bunce
+  - Michael Richards
+  - Ramneek Gupta
+  - Carlos D. Bustamante
+  - Anders Krogh
+  - Robert A. Foley
+  - Marta M. Lahr
+  - Francois Balloux
+  - "Thomas Sicheritz-Pont\xE9n"
+  - Richard Villems
+  - Rasmus Nielsen
+  - Jun Wang
+  - Eske Willerslev
+  publisher: Science
+  date: '2011-10-07'
+  link: https://doi.org/fk6gtq
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msq288
+  title: 'Population Genetic Structure in Indian Austroasiatic Speakers: The Role
+    of Landscape Barriers and Sex-Specific Admixture'
+  authors:
+  - G. Chaubey
+  - M. Metspalu
+  - Y. Choi
+  - R. Magi
+  - I. G. Romero
+  - P. Soares
+  - M. van Oven
+  - D. M. Behar
+  - S. Rootsi
+  - G. Hudjashov
+  - C. B. Mallick
+  - M. Karmin
+  - M. Nelis
+  - J. Parik
+  - A. G. Reddy
+  - E. Metspalu
+  - G. van Driem
+  - Y. Xue
+  - C. Tyler-Smith
+  - K. Thangaraj
+  - L. Singh
+  - M. Remm
+  - M. B. Richards
+  - M. M. Lahr
+  - M. Kayser
+  - R. Villems
+  - T. Kivisild
+  publisher: Molecular Biology and Evolution
+  date: '2010-10-26'
+  link: https://doi.org/cxck28
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ejhg.2009.168
+  title: Traces of sub-Saharan and Middle Eastern lineages in Indian Muslim populations
+  authors:
+  - Muthukrishnan Eaaswarkhanth
+  - Ikramul Haque
+  - Zeinab Ravesh
+  - Irene Gallego Romero
+  - Poorlin Ramakodi Meganathan
+  - Bhawna Dubey
+  - Faizan Ahmed Khan
+  - Gyaneshwer Chaubey
+  - Toomas Kivisild
+  - Chris Tyler-Smith
+  - Lalji Singh
+  - Kumarasamy Thangaraj
+  publisher: European Journal of Human Genetics
+  date: '2009-10-07'
+  link: https://doi.org/fw5j9r
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/hdy.2008.89
+  title: How accurate is the current picture of human genetic variation?
+  authors:
+  - I G Romero
+  - A Manica
+  - J Goudet
+  - L L Handley
+  - F Balloux
+  publisher: Heredity
+  date: '2008-09-03'
+  link: https://doi.org/cgnfkr
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00439-007-0432-1
+  title: CFTR mutations and reproductive outcomes in a population isolate
+  authors:
+  - Irene Gallego Romero
+  - Carole Ober
+  publisher: Human Genetics
+  date: '2007-09-28'
+  link: https://doi.org/c6jd3s
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.224436.117
+  title: Impact of regulatory variation across human iPSCs and differentiated cells
+  authors:
+  - Nicholas E. Banovich
+  - Yang I. Li
+  - Anil Raj
+  - Michelle C. Ward
+  - Peyton Greenside
+  - Diego Calderon
+  - Po Yuan Tung
+  - Jonathan E. Burnett
+  - Marsha Myrthil
+  - Samantha M. Thomas
+  - Courtney K. Burrows
+  - Irene Gallego Romero
+  - Bryan J. Pavlovic
+  - Anshul Kundaje
+  - Jonathan K. Pritchard
+  - Yoav Gilad
+  publisher: Genome Research
+  date: '2017-12-05'
+  link: https://doi.org/gcn3ft
+  orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.04.11.24305690
@@ -248,22 +1139,35 @@
   - AVE
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.46471/gigabyte.118
-  title: De novo transcriptome assembly and genome annotation of the fat-tailed dunnart
-    (Sminthopsis crassicaudata)
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
   authors:
-  - Neke Ibeh
-  - Charles Y. Feigin
-  - Stephen R. Frankenberg
-  - Davis J. McCarthy
-  - Andrew J. Pask
-  - Irene Gallego Romero
-  publisher: Gigabyte
-  date: '2024-05-02'
-  link: https://doi.org/gtxsrg
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
   type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
   tags:
-  - marsupials
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017

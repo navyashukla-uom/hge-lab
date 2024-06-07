@@ -4,7 +4,7 @@
     - human diversity
     - AVE
   buttons:
-    - type: dataset
+    - type: data
       link: https://greenelab.github.io/meta-review/
 
 - id: doi:10.46471/gigabyte.118 
@@ -12,7 +12,7 @@
   tags: 
     - marsupials
   buttons:
-    - type: dataset
+    - type: data
       link: https://greenelab.github.io/meta-review/
 
 -id: doi:10.1101/2020.07.09.196444

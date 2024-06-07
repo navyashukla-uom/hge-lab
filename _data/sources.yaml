@@ -3,17 +3,11 @@
   tags:
     - human diversity
     - AVE
-  buttons:
-    - type: data
-      link: https://greenelab.github.io/meta-review/
 
 - id: doi:10.46471/gigabyte.118 
   type: paper
   tags: 
     - marsupials
-  buttons:
-    - type: data
-      link: https://greenelab.github.io/meta-review/
 
 -id: doi:10.1101/2020.07.09.196444
   type: paper

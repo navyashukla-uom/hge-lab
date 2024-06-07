@@ -1,3 +1,14 @@
+- id: doi:10.1101/2024.04.11.24305690 
+  type: paper
+  tags:
+    - human diversity
+    - AVE
+
+- id: doi:10.46471/gigabyte.118 
+  type: paper
+  tags: 
+    - marsupials
+    
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

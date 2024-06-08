@@ -17,6 +17,7 @@
     - human evolution
 
 - id: doi:10.1101/2024.04.11.24305690 
+  type: preprint
   publisher: medRxiv
   tags:
     - human diversity
@@ -25,6 +26,9 @@
 # remove duplicates:
 
 - id: doi:10.1101/2023.11.16.567318
+  remove: true
+
+- id: doi:10.1101/2021.06.27.450107
   remove: true
 
 # tester

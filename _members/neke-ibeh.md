@@ -1,7 +1,8 @@
 ---
 name: Neke Ibeh
-image: images/photo.jpg
+image: images/team/neke.jpg
 role: phd
+group: current
 links:
   github: john-doe
 ---

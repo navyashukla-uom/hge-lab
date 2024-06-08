@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you are interested in the work we do and looking for an honours, masters or PhD position, email Irene in the first instance, and we can chat to see if there’s any suitable positions available. **You should also read through our lab guidelines document to get a feel for the lab and whether it is the right environment for you.**
 
 {% include section.html %}
 
@@ -20,29 +18,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include list.html data="members" component="portrait" filters="group: alum" %}
 
-## More lab alumni
-
-{% include list.html data="members" component="card" filters="group: alum" %}
-
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-
-
-{% include section.html %}
-
-
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}

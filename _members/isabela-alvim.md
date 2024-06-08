@@ -1,7 +1,8 @@
 ---
 name: Isabela Alvim
-image: images/photo.jpg
+image: images/team/isabela.jpg
 role: postdoc
+group: current
 links:
   github: john-doe
 ---

@@ -1,7 +1,8 @@
 ---
 name: Fachrul
-image: images/photo.jpg
+image: images/team/fachrul.jpg
 role: postdoc
+group: current
 links:
   github: john-doe
 ---

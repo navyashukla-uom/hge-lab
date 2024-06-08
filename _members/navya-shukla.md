@@ -1,8 +1,8 @@
 ---
 name: Navya Shukla
-image: images/photo.jpg
+image: images/team/navya.jpg
 role: phd
-group: alum
+group: current
 links:
   github: john-doe
 ---

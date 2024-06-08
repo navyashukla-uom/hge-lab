@@ -2,6 +2,7 @@
 name: Vita Sukanthamarn
 image: images/photo.jpg
 role: phd
+group: current
 links:
   github: john-doe
 ---

@@ -18,6 +18,14 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+honours:
+  icon: fa-solid fa-user-graduate
+  description: Honours Student
+
+msc:
+  icon: fa-solid fa-user-graduate
+  description: MSc Student
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

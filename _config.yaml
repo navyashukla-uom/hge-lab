@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: irenegDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: Human Genomics and Evolution group at SVI
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,9 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@irenegDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: irene.gallego@svi.edu.au
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: 1hptO8sAAAAJ
   github: irenegDESCRIPTION=An engaging 1-3 sentence description of your lab.
   twitter: irenegDESCRIPTION=An engaging 1-3 sentence description of your lab.
   youtube: irenegDESCRIPTION=An engaging 1-3 sentence description of your lab.
@@ -41,7 +41,7 @@ collections:
     output: true
   # generate page for each post
   posts:
-    output: true
+    output: false
 
 # jekyll plugins
 plugins:

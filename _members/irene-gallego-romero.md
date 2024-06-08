@@ -1,13 +1,12 @@
 ---
-name: Jane Smith
+name: Irene Gallego Romero
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - IGR
+  - 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0003-1613-8998
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

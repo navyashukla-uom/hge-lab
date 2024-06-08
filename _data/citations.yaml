@@ -30,10 +30,8 @@
   date: '2024-05-02'
   link: https://doi.org/gtxsrg
   orcid: 0000-0003-1613-8998
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - marsupials
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.04.11.24305690
   title: Defining and Reducing Variant Classification Disparities
   authors:
@@ -64,7 +62,7 @@
   type: preprint
   tags:
   - human diversity
-  - AVE
+  - MAVE
 - id: doi:10.1016/j.ajhg.2023.10.012
   title: Increasing diversity of functional genetics studies to advance biological
     discovery and human health
@@ -192,6 +190,18 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-09-25'
   link: https://doi.org/gtxsrs
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.27.450107
+  title: Genetic diversity in chimpanzee transcriptomics does not represent wild populations
+  authors:
+  - Navya Shukla
+  - Bobbie Shaban
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-28'
+  link: https://doi.org/gtxsrr
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
@@ -652,34 +662,6 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/008862
-  title: 'Generation of a Panel of Induced Pluripotent Stem Cells From Chimpanzees:
-    a Resource for Comparative Functional Genomics'
-  authors:
-  - Irene Gallego Romero
-  - Bryan J Pavlovic
-  - Irene Hernando-Herraez
-  - Nicholas E Banovich
-  - Courtney L Kagan
-  - Jonathan E Burnett
-  - Constance H Huang
-  - Amy Mitrano
-  - Claudia I Chavarria
-  - Inbar F Ben-Nun
-  - Yingchun Li
-  - Karen Sabatini
-  - Trevor R Leonardo
-  - Mana Parast
-  - Tomas Marques-Bonet
-  - Louise C Laurent
-  - Jeanne F Loring
-  - Yoav Gilad
-  publisher: Cold Spring Harbor Laboratory
-  date: '2014-09-06'
-  link: https://doi.org/gkwqhz
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0098076
   title: Genome-Wide Analysis of Cold Adaptation in Indigenous Siberian Populations
   authors:
@@ -716,19 +698,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2014-01-30'
   link: https://doi.org/gkww5p
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/1741-7007-12-42
-  title: 'RNA-seq: impact of RNA degradation on transcript quantification'
-  authors:
-  - Irene Gallego Romero
-  - Athma A Pai
-  - Jenny Tung
-  - Yoav Gilad
-  publisher: BMC Biology
-  date: '2014-05-30'
-  link: https://doi.org/f59ztg
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
@@ -1188,87 +1157,3 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pgen.1010470
-  title: Denisovan introgression has shaped the immune system of present-day Papuans
-  authors:
-  - Davide M. Vespasiani
-  - Guy S. Jacobs
-  - Laura E. Cook
-  - Nicolas Brucato
-  - Matthew Leavesley
-  - Christopher Kinipi
-  - "Fran\xE7ois-Xavier Ricaut"
-  - Murray P. Cox
-  - Irene Gallego Romero
-  publisher: PLOS Genetics
-  date: '2022-12-08'
-  link: https://doi.org/grf6th
-  tags:
-  - human diversity
-  - denisovan introgression
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ajhg.2021.11.017
-  title: Genetic architecture of gene regulation in Indonesian populations identifies
-    QTLs associated with global and local ancestries
-  authors:
-  - Heini M. Natri
-  - Georgi Hudjashov
-  - Guy Jacobs
-  - Pradiptajati Kusuma
-  - Lauri Saag
-  - Chelzie Crenna Darusallam
-  - Mait Metspalu
-  - Herawati Sudoyo
-  - Murray P. Cox
-  - Irene Gallego Romero
-  - Nicholas E. Banovich
-  publisher: The American Journal of Human Genetics
-  date: '2022-01-01'
-  link: https://doi.org/gtxwth
-  tags:
-  - indonesia
-  - human diversity
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13059-023-02856-6 - mpra - human evolution
-  title: Leveraging massively parallel reporter assays for evolutionary questions
-  authors:
-  - Irene Gallego Romero
-  - Amanda J. Lea
-  publisher: Genome Biology
-  date: '2023-02-14'
-  link: https://doi.org/10.1186/s13059-023-02856-6 - mpra - human evolution
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml

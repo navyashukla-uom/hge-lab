@@ -1,25 +1,6 @@
 - id: doi:10.1101/2024.04.11.24305690 
+  type: preprint
   publisher: medRxiv
   tags:
     - human diversity
-    - AVE
-
--id: doi:10.1101/2024.05.07.593052
-  publisher: bioRxiv
-  tags:
-    - indonesia
-    - human diversity
-
-- id: doi:10.1101/2022.04.24.489025 
-  publisher: bioRxiv
-  date: 2024-05-06
-  tags:
-    - indonesia
-    - microbiome
-
-
-- id: doi:10.1101/466631
-  publisher: bioRxiv
-  tags:
-    - chimpanzees
-    - iPSCs
+    - MAVE

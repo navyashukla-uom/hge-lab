@@ -1,8 +1,7 @@
 ---
-name: John Doe
+name: Lani Li
 image: images/photo.jpg
-role: phd
-group: alum
+role: tech
 links:
   github: john-doe
 ---

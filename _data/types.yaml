@@ -26,6 +26,10 @@ msc:
   icon: fa-solid fa-user-graduate
   description: MSc Student
 
+tech:
+  icon: fa-solid fa-user-graduate
+  description: Research Assistant
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

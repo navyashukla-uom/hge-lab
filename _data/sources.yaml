@@ -16,6 +16,19 @@
     - mpra
     - human evolution
 
+- id: doi:10.1101/2024.04.11.24305690 
+  publisher: medRxiv
+  tags:
+    - human diversity
+    - AVE
+
+# remove duplicates:
+
+- id: doi:10.1101/2023.11.16.567318
+  remove: true
+
+# tester
+
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

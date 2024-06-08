@@ -8,12 +8,6 @@
   type: paper
   tags: 
     - marsupials
-
--id: doi:10.1371/journal.pgen.1010470
-  type: paper
-  tags: 
-    - png
-    - denisovan introgression
     
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper

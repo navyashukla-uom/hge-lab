@@ -9,19 +9,13 @@
     - human diversity
     
 - id: doi:10.46471/gigabyte.118 
+  title: *De novo* transcriptome assembly and genome annotation of the fat-tailed dunnart (*Sminthopsis crassicaudata*)
   tags: 
     - marsupials
 
 - id: doi:10.1186/s13059-023-02856-6
     - mpra
     - human evolution
-
-- id: doi:10.1101/2024.04.11.24305690 
-  type: preprint
-  publisher: medRxiv
-  tags:
-    - human diversity
-    - AVE
 
 # remove duplicates:
 
@@ -30,6 +24,41 @@
 
 - id: doi:10.1101/2021.06.27.450107
   remove: true
+
+
+# Classify preprints:
+
+- id: doi:10.1101/2024.04.11.24305690 
+  type: preprint
+  publisher: medRxiv
+  tags:
+    - human diversity
+    - AVE
+
+- id: doi:10.1101/2024.04.11.24305690 
+  publisher: bioRxiv
+  tags:
+    - human diversity
+    - AVE
+
+-id: doi:10.1101/2024.05.07.593052
+  publisher: bioRxiv
+  tags:
+    - indonesia
+    - human diversity
+
+-id doi:10.1101/2023.02.13.528361
+  publisher: bioRxiv
+  tags:
+    - marsupials
+
+-id: doi:10.1101/2022.04.24.489025 
+  publisher: bioRxiv
+  date: 2024-05-06
+  tags:
+    - indonesia
+    - microbiome
+
 
 # tester
 

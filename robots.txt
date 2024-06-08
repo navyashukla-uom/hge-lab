@@ -1,1 +1,1 @@
-Sitemap: https://ireneg.github.io/lab-tester/sitemap.xml
+Sitemap: https://ireneg.github.io/hge-lab/sitemap.xml

@@ -61,6 +61,7 @@
   orcid: 0000-0003-1613-8998
   plugin: sources.py
   file: sources.yaml
+  type: preprint
   tags:
   - human diversity
   - AVE
@@ -191,18 +192,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-09-25'
   link: https://doi.org/gtxsrs
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.06.27.450107
-  title: Genetic diversity in chimpanzee transcriptomics does not represent wild populations
-  authors:
-  - Navya Shukla
-  - Bobbie Shaban
-  - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-06-28'
-  link: https://doi.org/gtxsrr
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml

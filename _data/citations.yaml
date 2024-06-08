@@ -32,22 +32,57 @@
   orcid: 0000-0003-1613-8998
   plugin: sources.py
   file: sources.yaml
-  type: paper
   tags:
   - marsupials
-- id: doi:10.1101/2023.11.16.567318
-  title: <i>De novo</i>transcriptome assembly and genome annotation of the fat-tailed
-    dunnart (<i>Sminthopsis crassicaudata</i>)
+- id: doi:10.1101/2024.04.11.24305690
+  title: Defining and Reducing Variant Classification Disparities
   authors:
-  - Neke Ibeh
-  - Charles Y. Feigin
-  - Stephen R. Frankenberg
-  - Davis J. McCarthy
-  - Andrew J. Pask
+  - Moez Dawood
+  - Shawn Fayer
+  - Sriram Pendyala
+  - Mason Post
+  - Divya Kalra
+  - Karynne Patterson
+  - Eric Venner
+  - Lara A. Muffley
+  - Douglas M. Fowler
+  - Alan F. Rubin
+  - Jennifer E. Posey
+  - Sharon E. Plon
+  - James R. Lupski
+  - Richard A. Gibbs
+  - Lea M. Starita
+  - Carla Daniela Robles-Espinoza
+  - Willow Coyote-Maestas
   - Irene Gallego Romero
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-17'
-  link: https://doi.org/gtxsrj
+  date: '2024-04-12'
+  link: https://doi.org/gtxsrf
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2023.10.012
+  title: Increasing diversity of functional genetics studies to advance biological
+    discovery and human health
+  authors:
+  - Sophia H.L. George
+  - Alejandra Medina-Rivera
+  - Youssef Idaghdour
+  - Tuuli Lappalainen
+  - Irene Gallego Romero
+  publisher: The American Journal of Human Genetics
+  date: '2023-12-01'
+  link: https://doi.org/gs8zjp
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.adh0745
+  title: Seeing humans through an evolutionary lens
+  authors:
+  - Irene Gallego Romero
+  publisher: Science
+  date: '2023-04-28'
+  link: https://doi.org/gtxwv2
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
@@ -77,7 +112,7 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pgen.1010470
+- id: doi:10.1101/2020.07.09.196444
   title: Denisovan introgression has shaped the immune system of present-day Papuans
   authors:
   - Davide M. Vespasiani
@@ -86,19 +121,15 @@
   - Nicolas Brucato
   - Matthew Leavesley
   - Christopher Kinipi
-  - "Fran\xE7ois-Xavier Ricaut"
+  - Francois-Xavier Ricaut
   - Murray P. Cox
   - Irene Gallego Romero
-  publisher: PLOS Genetics
-  date: '2022-12-08'
-  link: https://doi.org/grf6th
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-09'
+  link: https://doi.org/gtxsrt
   orcid: 0000-0003-1613-8998
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  tags:
-  - human diversity
-  - denisovan introgression
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/febs.15885
   title: Harnessing pluripotent stem cells as models to decipher human evolution
   authors:
@@ -139,34 +170,6 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.06.27.450107
-  title: Genetic diversity in chimpanzee transcriptomics does not represent wild populations
-  authors:
-  - Navya Shukla
-  - Bobbie Shaban
-  - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-06-28'
-  link: https://doi.org/gtxsrr
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.01.07.425684
-  title: Transcriptomic profiles of <i>Plasmodium falciparum</i> and <i>Plasmodium
-    vivax</i>-infected individuals in Indonesia
-  authors:
-  - Katalina Bobowik
-  - Din Syafruddin
-  - Chelzie Crenna Darusallam
-  - Herawati Sudoyo
-  - Christine Wells
-  - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-01-08'
-  link: https://doi.org/gszbbg
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2020.09.25.313726
   title: Genetic architecture of gene regulation in Indonesian populations identifies
     QTLs associated with local ancestry and archaic introgression
@@ -188,21 +191,81 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.07.09.196444
-  title: Denisovan introgression has shaped the immune system of present-day Papuans
+- id: doi:10.1101/2021.06.27.450107
+  title: Genetic diversity in chimpanzee transcriptomics does not represent wild populations
   authors:
-  - Davide M. Vespasiani
-  - Guy S. Jacobs
-  - Laura E. Cook
-  - Nicolas Brucato
-  - Matthew Leavesley
-  - Christopher Kinipi
-  - Francois-Xavier Ricaut
-  - Murray P. Cox
+  - Navya Shukla
+  - Bobbie Shaban
   - Irene Gallego Romero
   publisher: Cold Spring Harbor Laboratory
-  date: '2020-07-09'
-  link: https://doi.org/gtxsrt
+  date: '2021-06-28'
+  link: https://doi.org/gtxsrr
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msab238
+  title: Papua New Guinean Genomes Reveal the Complex Settlement of North Sahul
+  authors:
+  - Nicolas Brucato
+  - "Mathilde Andr\xE9"
+  - Roxanne Tsang
+  - Lauri Saag
+  - Jason Kariwiga
+  - Kylie Sesuki
+  - Teppsy Beni
+  - William Pomat
+  - John Muke
+  - Vincent Meyer
+  - Anne Boland
+  - "Jean-Fran\xE7ois Deleuze"
+  - Herawati Sudoyo
+  - Mayukh Mondal
+  - Luca Pagani
+  - Irene Gallego Romero
+  - Mait Metspalu
+  - Murray P Cox
+  - Matthew Leavesley
+  - "Fran\xE7ois-Xavier Ricaut"
+  publisher: Molecular Biology and Evolution
+  date: '2021-08-12'
+  link: https://doi.org/gssngh
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.07.425684
+  title: Transcriptomic profiles of <i>Plasmodium falciparum</i> and <i>Plasmodium
+    vivax</i>-infected individuals in Indonesia
+  authors:
+  - Katalina Bobowik
+  - Din Syafruddin
+  - Chelzie Crenna Darusallam
+  - Herawati Sudoyo
+  - Christine Wells
+  - Irene Gallego Romero
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-01-08'
+  link: https://doi.org/gszbbg
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1008749
+  title: Genome-wide DNA methylation and gene expression patterns reflect genetic
+    ancestry and environmental differences across the Indonesian archipelago
+  authors:
+  - Heini M. Natri
+  - Katalina S. Bobowik
+  - Pradiptajati Kusuma
+  - Chelzie Crenna Darusallam
+  - Guy S. Jacobs
+  - Georgi Hudjashov
+  - J. Stephen Lansing
+  - Herawati Sudoyo
+  - Nicholas E. Banovich
+  - Murray P. Cox
+  - Irene Gallego Romero
+  publisher: PLOS Genetics
+  date: '2020-05-26'
+  link: https://doi.org/gjdt73
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
@@ -225,27 +288,6 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/704304
-  title: Genome-wide DNA methylation and gene expression patterns reflect genetic
-    ancestry and environmental differences across the Indonesian archipelago
-  authors:
-  - Heini Natri
-  - Katalina S. Bobowik
-  - Pradiptajati Kusuma
-  - Chelzie Crenna Darusallam
-  - Guy S. Jacobs
-  - Georgi Hudjashov
-  - J. Stephen Lansing
-  - Herawati Sudoyo
-  - Nicholas E. Banovich
-  - Murray P. Cox
-  - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-07-16'
-  link: https://doi.org/gkvx8v
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/466631
   title: Widespread conservation of chromatin accessibility patterns and transcription
     factor binding in human and chimpanzee induced pluripotent stem cells
@@ -259,20 +301,20 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pgen.1005793
-  title: Genetic Variation, Not Cell Type of Origin, Underlies the Majority of Identifiable
-    Regulatory Differences in iPSCs
+- id: doi:10.1101/013888
+  title: Genetic Variation, Not Cell Type of Origin, Underlies Regulatory Differences
+    in iPSCs
   authors:
-  - Courtney K. Burrows
-  - Nicholas E. Banovich
-  - Bryan J. Pavlovic
+  - Courtney L Kagan
+  - Nicholas E Banovich
+  - Bryan J Pavlovic
   - Kristen Patterson
   - Irene Gallego Romero
-  - Jonathan K. Pritchard
+  - Jonathan K Pritchard
   - Yoav Gilad
-  publisher: PLOS Genetics
-  date: '2016-01-26'
-  link: https://doi.org/f78jp9
+  publisher: Cold Spring Harbor Laboratory
+  date: '2015-01-19'
+  link: https://doi.org/gkwc83
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
@@ -618,6 +660,34 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/008862
+  title: 'Generation of a Panel of Induced Pluripotent Stem Cells From Chimpanzees:
+    a Resource for Comparative Functional Genomics'
+  authors:
+  - Irene Gallego Romero
+  - Bryan J Pavlovic
+  - Irene Hernando-Herraez
+  - Nicholas E Banovich
+  - Courtney L Kagan
+  - Jonathan E Burnett
+  - Constance H Huang
+  - Amy Mitrano
+  - Claudia I Chavarria
+  - Inbar F Ben-Nun
+  - Yingchun Li
+  - Karen Sabatini
+  - Trevor R Leonardo
+  - Mana Parast
+  - Tomas Marques-Bonet
+  - Louise C Laurent
+  - Jeanne F Loring
+  - Yoav Gilad
+  publisher: Cold Spring Harbor Laboratory
+  date: '2014-09-06'
+  link: https://doi.org/gkwqhz
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0098076
   title: Genome-Wide Analysis of Cold Adaptation in Indigenous Siberian Populations
   authors:
@@ -641,6 +711,19 @@
   publisher: PLoS ONE
   date: '2014-05-21'
   link: https://doi.org/f58gd9
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/002261
+  title: Impact of RNA degradation on measurements of gene expression
+  authors:
+  - Irene Gallego Romero
+  - Athma A. Pai
+  - Jenny Tung
+  - Yoav Gilad
+  publisher: Cold Spring Harbor Laboratory
+  date: '2014-01-30'
+  link: https://doi.org/gkww5p
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
@@ -1113,34 +1196,24 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2024.04.11.24305690
-  title: Defining and Reducing Variant Classification Disparities
+- id: doi:10.1371/journal.pgen.1010470
+  title: Denisovan introgression has shaped the immune system of present-day Papuans
   authors:
-  - Moez Dawood
-  - Shawn Fayer
-  - Sriram Pendyala
-  - Mason Post
-  - Divya Kalra
-  - Karynne Patterson
-  - Eric Venner
-  - Lara A. Muffley
-  - Douglas M. Fowler
-  - Alan F. Rubin
-  - Jennifer E. Posey
-  - Sharon E. Plon
-  - James R. Lupski
-  - Richard A. Gibbs
-  - Lea M. Starita
-  - Carla Daniela Robles-Espinoza
-  - Willow Coyote-Maestas
+  - Davide M. Vespasiani
+  - Guy S. Jacobs
+  - Laura E. Cook
+  - Nicolas Brucato
+  - Matthew Leavesley
+  - Christopher Kinipi
+  - "Fran\xE7ois-Xavier Ricaut"
+  - Murray P. Cox
   - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-04-12'
-  link: https://doi.org/gtxsrf
-  type: paper
+  publisher: PLOS Genetics
+  date: '2022-12-08'
+  link: https://doi.org/grf6th
   tags:
   - human diversity
-  - AVE
+  - denisovan introgression
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ajhg.2021.11.017
@@ -1161,11 +1234,19 @@
   publisher: The American Journal of Human Genetics
   date: '2022-01-01'
   link: https://doi.org/gtxwth
-  type: paper
   tags:
   - indonesia
-  - rna-seq
   - human diversity
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-023-02856-6 - mpra - human evolution
+  title: Leveraging massively parallel reporter assays for evolutionary questions
+  authors:
+  - Irene Gallego Romero
+  - Amanda J. Lea
+  publisher: Genome Biology
+  date: '2023-02-14'
+  link: https://doi.org/10.1186/s13059-023-02856-6 - mpra - human evolution
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1007128

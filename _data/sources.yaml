@@ -49,3 +49,169 @@
 
 - id: doi:10.1101/008862
   remove: true
+
+# tags etc:
+
+- id: doi:10.1016/j.ajhg.2023.10.012
+  tags:
+    - human diversity
+
+- id: doi:10.1126/science.adh0745
+  tags:
+    - perspective
+
+- id: doi:10.1186/s13059-023-02856-6
+  tags:
+    - review
+
+- id: doi:10.1111/febs.15885
+  tags:
+    - review
+
+- id: doi:10.1038/s41576-022-00469-6
+  tags:
+    - perspective
+
+- id: doi:10.1093/molbev/msab238
+  tags:
+    - papua new guinea
+    - human evolution
+
+- id: doi:10.1371/journal.pgen.1008749
+  tags:
+    - indonesia
+    - human diversity
+    - gene regulation
+
+- id: doi:10.1093/molbev/msz037
+  tags:
+    - human evolution
+
+- id: doi:10.1101/013888
+  tags: 
+    - iPSCs
+    - gene regulation
+
+- id: doi:10.1038/nature18964
+  tags:
+    - human diversity
+
+- id: doi:10.1126/science.aab3761
+  tags:
+    - human diversity
+
+- id: doi:10.7554/eLife.07103
+  tags:
+    - chimpanzee
+    - iPSCs
+    - resource
+
+- id: doi:10.1371/journal.pone.0118307
+  tags:
+    - iPSCs
+
+- id: doi:10.1038/nature13673
+  tags:
+    - human evolution
+  
+- id: doi:10.1371/journal.pone.0098076
+  tags:
+    - human evolution
+
+- id: doi:10.1186/1741-7007-12-42
+  tags:
+    - gene expression
+    - methods
+
+- id: doi:10.1371/journal.pgen.1003912
+  tags:
+    - human diversity
+
+- id: doi:10.1186/1471-2156-14-87
+  tags:
+    - methods
+
+- id: doi:10.1111/ahg.12028
+  tags:
+    - human diversity
+    - india
+
+- id: doi:10.3378/027.085.0313
+  tags:
+    - human evolution
+    - human diversity
+
+- id: doi:10.1038/nrg3229
+  tags:
+    - review
+    - gene regulation
+
+- id: doi:10.1016/j.ajhg.2012.05.015
+  tags:
+    - human diversity
+
+- id: doi:10.1007/s00439-011-1111-9
+  tags:
+    - methods
+
+- id: doi:10.1126/science.1215040
+  tags:
+    - human diversity
+
+- id: doi:10.1016/j.ajhg.2011.11.010
+  tags: 
+    - human evolution
+    - india
+    - human diversity
+
+- id: doi:10.1093/molbev/msr190
+  tags:
+    - human evolution
+    - india
+    - lactase persistence
+
+- id: doi:10.1126/science.1211177
+  tags:
+    - human diversity
+    - human evolution
+
+- id: doi:10.1093/molbev/msq288
+  tags:
+    - human diversity
+    - india
+
+- id: doi:10.1038/ejhg.2009.168
+  tags:
+    - human diversity
+    - india
+
+- id: doi:10.1038/hdy.2008.89
+  tags: 
+    - human diversity
+    - human evolution
+   
+- id: doi:10.1007/s00439-007-0432-1
+  tags:
+    - cftr
+    - hutterites
+
+- id: doi:10.1101/gr.224436.117
+  tags: 
+    - gene regulation
+    - iPSCs
+
+- id: doi:10.1371/journal.pgen.1010470
+  tags: 
+    - denisovan introgression
+    - human diversity
+
+- id: doi:10.1016/j.ajhg.2021.11.017
+  tags:
+    - indonesia
+    - human diversity
+    - gene regulation
+
+- id: doi:10.1186/s13059-023-02856-6
+  tags:
+    - mpra 
+    - human evolution

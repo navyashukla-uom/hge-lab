@@ -16,4 +16,4 @@ If you are interested in the work we do and looking for an honours, masters or P
 
 ## Lab alumni
 
-{% include list.html data="members" component="portrait" filters="group: alum" %}
+{% include list.html data="members" component="portrait-alum" filters="group: alum" %}

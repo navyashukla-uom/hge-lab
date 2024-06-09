@@ -257,6 +257,37 @@
   - Indonesia
   - human diversity
   - gene regulation
+- id: doi:10.1038/s41467-020-16214-8
+  title: Unique properties of a subset of human pluripotent stem cells with high capacity
+    for self-renewal
+  authors:
+  - Kevin X. Lau
+  - Elizabeth A. Mason
+  - Joshua Kie
+  - David P. De Souza
+  - Joachim Kloehn
+  - Dedreia Tull
+  - Malcolm J. McConville
+  - Andrew Keniry
+  - Tamara Beck
+  - Marnie E. Blewitt
+  - Matthew E. Ritchie
+  - Shalin H. Naik
+  - Daniela Zalcenstein
+  - Othmar Korn
+  - Shian Su
+  - Irene Gallego Romero
+  - Catrina Spruce
+  - Christopher L. Baker
+  - Tracy C. McGarr
+  - Christine A. Wells
+  - Martin F. Pera
+  publisher: Nature Communications
+  date: '2020-05-15'
+  link: https://doi.org/ggwvh2
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/molbev/msz037
   title: Ancestry-Specific Analyses Reveal Differential Demographic Histories and
     Opposite Selective Pressures in Modern South Asian Populations

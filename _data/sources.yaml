@@ -12,7 +12,7 @@
   type: preprint
   publisher: bioRxiv
   tags:
-    - indonesia
+    - Indonesia
     - human diversity
 
 - id: doi:10.1101/2022.04.24.489025 
@@ -20,7 +20,7 @@
   publisher: bioRxiv
   date: '2024-5-06'
   tags:
-    - indonesia
+    - Indonesia
     - microbiome
 
 - id: doi:10.1101/466631
@@ -63,10 +63,13 @@
 - id: doi:10.1186/s13059-023-02856-6
   tags:
     - review
+    - MAVE
 
 - id: doi:10.1111/febs.15885
   tags:
     - review
+    - human evolution
+    - iPSCs
 
 - id: doi:10.1038/s41576-022-00469-6
   tags:
@@ -74,12 +77,12 @@
 
 - id: doi:10.1093/molbev/msab238
   tags:
-    - papua new guinea
+    - Papua New Guinea
     - human evolution
 
 - id: doi:10.1371/journal.pgen.1008749
   tags:
-    - indonesia
+    - Indonesia
     - human diversity
     - gene regulation
 
@@ -134,7 +137,7 @@
 - id: doi:10.1111/ahg.12028
   tags:
     - human diversity
-    - india
+    - India
 
 - id: doi:10.3378/027.085.0313
   tags:
@@ -161,13 +164,13 @@
 - id: doi:10.1016/j.ajhg.2011.11.010
   tags: 
     - human evolution
-    - india
+    - India
     - human diversity
 
 - id: doi:10.1093/molbev/msr190
   tags:
     - human evolution
-    - india
+    - India
     - lactase persistence
 
 - id: doi:10.1126/science.1211177
@@ -178,12 +181,12 @@
 - id: doi:10.1093/molbev/msq288
   tags:
     - human diversity
-    - india
+    - India
 
 - id: doi:10.1038/ejhg.2009.168
   tags:
     - human diversity
-    - india
+    - India
 
 - id: doi:10.1038/hdy.2008.89
   tags: 
@@ -192,8 +195,8 @@
    
 - id: doi:10.1007/s00439-007-0432-1
   tags:
-    - cftr
-    - hutterites
+    - CFTR
+    - Hutterites
 
 - id: doi:10.1101/gr.224436.117
   tags: 
@@ -207,13 +210,13 @@
 
 - id: doi:10.1016/j.ajhg.2021.11.017
   tags:
-    - indonesia
+    - Indonesia
     - human diversity
     - gene regulation
 
 - id: doi:10.1186/s13059-023-02856-6
   tags:
-    - mpra 
+    - MAVE
     - human evolution
 
 # papers with title updates:
@@ -223,3 +226,17 @@
   tags: 
     - marsupials
     - resource
+
+- id: doi:10.1101/2021.01.07.425684
+  type: preprint
+  title: 'Transcriptomic profiles of *Plasmodium falciparum* and *Plasmodium vivax* -infected individuals in Indonesia'
+  publisher: bioRxiv
+  tags:
+    - Indonesia
+
+- id: doi:10.1101/2023.02.13.528361
+  type: preprint
+  title: '*Cis* -regulatory landscapes of the fat-tailed dunnart and mouse provide insight into the drivers of craniofacial heterochrony'
+  publisher: bioRxiv
+  tags:
+    - marsupials

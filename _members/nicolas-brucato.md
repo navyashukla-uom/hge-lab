@@ -1,8 +1,8 @@
 ---
-title: Example post 3
+name: Nicolas Brucato
 image: images/photo.jpg
-author: john-doe
-tags: biology, medicine
+role: visitor
+group: alumn
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

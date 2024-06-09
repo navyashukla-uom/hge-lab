@@ -8,6 +8,11 @@
 {% endif %}
 
 <div class="portrait-wrapper">
+    <a
+    class="portrait"
+    data-style="{{ include.style }}"
+    aria-label="{{ member.name | default: "member link" }}"
+  >
     <img
       src="{{ member.image | relative_url }}"
       class="portrait-image"
@@ -33,4 +38,5 @@
         {% endif %}
       </span>
     {% endif %}
+    </a>
 </div>

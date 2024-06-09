@@ -118,24 +118,6 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.07.09.196444
-  title: Denisovan introgression has shaped the immune system of present-day Papuans
-  authors:
-  - Davide M. Vespasiani
-  - Guy S. Jacobs
-  - Laura E. Cook
-  - Nicolas Brucato
-  - Matthew Leavesley
-  - Christopher Kinipi
-  - Francois-Xavier Ricaut
-  - Murray P. Cox
-  - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-07-09'
-  link: https://doi.org/gtxsrt
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/febs.15885
   title: Harnessing pluripotent stem cells as models to decipher human evolution
   authors:
@@ -176,42 +158,10 @@
   orcid: 0000-0003-1613-8998
   plugin: sources.py
   file: sources.yaml
+  type: preprint
   tags:
   - indonesia
   - microbiome
-- id: doi:10.1101/2020.09.25.313726
-  title: Genetic architecture of gene regulation in Indonesian populations identifies
-    QTLs associated with local ancestry and archaic introgression
-  authors:
-  - Heini M. Natri
-  - Georgi Hudjashov
-  - Guy Jacobs
-  - Pradiptajati Kusuma
-  - Lauri Saag
-  - Chelzie Crenna Darusallam
-  - Mait Metspalu
-  - Herawati Sudoyo
-  - Murray P. Cox
-  - Irene Gallego Romero
-  - Nicholas E. Banovich
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-09-25'
-  link: https://doi.org/gtxsrs
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.06.27.450107
-  title: Genetic diversity in chimpanzee transcriptomics does not represent wild populations
-  authors:
-  - Navya Shukla
-  - Bobbie Shaban
-  - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-06-28'
-  link: https://doi.org/gtxsrr
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/molbev/msab238
   title: Papua New Guinean Genomes Reveal the Complex Settlement of North Sahul
   authors:
@@ -310,6 +260,7 @@
   orcid: 0000-0003-1613-8998
   plugin: sources.py
   file: sources.yaml
+  type: preprint
   tags:
   - chimpanzees
   - iPSCs
@@ -695,19 +646,6 @@
   publisher: PLoS ONE
   date: '2014-05-21'
   link: https://doi.org/f58gd9
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/002261
-  title: Impact of RNA degradation on measurements of gene expression
-  authors:
-  - Irene Gallego Romero
-  - Athma A. Pai
-  - Jenny Tung
-  - Yoav Gilad
-  publisher: Cold Spring Harbor Laboratory
-  date: '2014-01-30'
-  link: https://doi.org/gkww5p
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml

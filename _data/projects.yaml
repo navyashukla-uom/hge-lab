@@ -9,24 +9,22 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We have been working with researchers in Indonesia to quantifying functional genetic diversity across the Indonesian archipelago (the world's fourth largest country by population!) at the bulk and single-cell levels. We want to understand the interplay of genetic and environmental forces in shaping gene expression and, more broadly, human phenotypes, in this part of the world, and how these compare to other populations worldwide.  
   tags:
     - indonesia
 
 - title: Multiplexed assays of variant effects as tools in evolutionary biology
   group: featured
   image: images/photo.jpg
-  description: We , which test the regulatory potential of thousands of genetic variants at once, have great potential as tools in evolutionary biology. We are fans of them at both the computational and experimental level.
+  description: Multiplexed assays of variant effects (MAVEs) are a set of methods that allow the experimental dissection of many genetic variants simultaneously. We are particularly interested in exploring the potential of massively parallel reporter assays, which test the regulatory potential of thousands of genetic variants at once, as tools in evolutionary biology.
   tags: 
     - MAVE
 
 - title: Quantifying human diversity in open data repositories
-  subtitle: the stuff we do with moez and amanda
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: The lack of diversity in human genetics datasets has been well-documented, especially at the DNA level. We are interested in looking beyond that, and quantifying both the downstream consequences of existing biases in the field, as well as diversity in other modalities of data, with a current focus on transcriptomics.  
   tags:
     - human diversity
 

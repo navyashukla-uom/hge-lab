@@ -14,8 +14,8 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
+  --primary: #f95738;
+  --secondary: #ee964b;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
@@ -28,8 +28,8 @@
 :root {
   // font families
   --title: "Gill Sans", sans-serif;
-  --heading: "Courier", sans-serif;
-  --body: "Helvetica", sans-serif;
+  --heading: "Gill Sans", sans-serif;
+  --body: "Arial", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes

@@ -18,7 +18,7 @@
   file: sources.yaml
   type: preprint
   tags:
-  - indonesia
+  - Indonesia
   - human diversity
 - id: doi:10.46471/gigabyte.118
   title: '*De novo* transcriptome assembly and genome annotation of the fat-tailed
@@ -100,20 +100,23 @@
   tags:
   - perspective
 - id: doi:10.1101/2023.02.13.528361
-  title: <i>Cis</i>-regulatory landscapes of the fat-tailed dunnart and mouse provide
-    insights into the drivers of craniofacial heterochrony
+  title: '*Cis* -regulatory landscapes of the fat-tailed dunnart and mouse provide
+    insight into the drivers of craniofacial heterochrony'
   authors:
   - Laura E. Cook
   - Charles Y. Feigin
   - Davide M. Vespasiani
   - Andrew J. Pask
   - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2023-02-14'
   link: https://doi.org/gtxsrk
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  tags:
+  - marsupials
 - id: doi:10.1186/s13059-023-02856-6
   title: Leveraging massively parallel reporter assays for evolutionary questions
   authors:
@@ -126,7 +129,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - mpra
+  - MAVE
   - human evolution
 - id: doi:10.1111/febs.15885
   title: Harnessing pluripotent stem cells as models to decipher human evolution
@@ -141,6 +144,8 @@
   file: sources.yaml
   tags:
   - review
+  - human evolution
+  - iPSCs
 - id: doi:10.1038/s41576-022-00469-6
   title: Genome-wide insights into human population structure
   authors:
@@ -174,7 +179,7 @@
   file: sources.yaml
   type: preprint
   tags:
-  - indonesia
+  - Indonesia
   - microbiome
 - id: doi:10.1093/molbev/msab238
   title: Papua New Guinean Genomes Reveal the Complex Settlement of North Sahul
@@ -206,11 +211,11 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - papua new guinea
+  - Papua New Guinea
   - human evolution
 - id: doi:10.1101/2021.01.07.425684
-  title: Transcriptomic profiles of <i>Plasmodium falciparum</i> and <i>Plasmodium
-    vivax</i>-infected individuals in Indonesia
+  title: Transcriptomic profiles of *Plasmodium falciparum* and *Plasmodium vivax*
+    -infected individuals in Indonesia
   authors:
   - Katalina Bobowik
   - Din Syafruddin
@@ -218,12 +223,15 @@
   - Herawati Sudoyo
   - Christine Wells
   - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2021-01-08'
   link: https://doi.org/gszbbg
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  tags:
+  - Indonesia
 - id: doi:10.1371/journal.pgen.1008749
   title: Genome-wide DNA methylation and gene expression patterns reflect genetic
     ancestry and environmental differences across the Indonesian archipelago
@@ -246,7 +254,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - indonesia
+  - Indonesia
   - human diversity
   - gene regulation
 - id: doi:10.1093/molbev/msz037
@@ -764,7 +772,7 @@
   file: sources.yaml
   tags:
   - human diversity
-  - india
+  - India
 - id: doi:10.3378/027.085.0313
   title: 'Evolution of the Pygmy Phenotype: Evidence of Positive Selection from Genome-wide
     Scans in African, Asian, and Melanesian Pygmies'
@@ -964,7 +972,7 @@
   file: sources.yaml
   tags:
   - human evolution
-  - india
+  - India
   - human diversity
 - id: doi:10.1093/molbev/msr190
   title: Herders of Indian and European Cattle Share Their Predominant Allele for
@@ -995,7 +1003,7 @@
   file: sources.yaml
   tags:
   - human evolution
-  - india
+  - India
   - lactase persistence
 - id: doi:10.1126/science.1211177
   title: An Aboriginal Australian Genome Reveals Separate Human Dispersals into Asia
@@ -1106,7 +1114,7 @@
   file: sources.yaml
   tags:
   - human diversity
-  - india
+  - India
 - id: doi:10.1038/ejhg.2009.168
   title: Traces of sub-Saharan and Middle Eastern lineages in Indian Muslim populations
   authors:
@@ -1130,7 +1138,7 @@
   file: sources.yaml
   tags:
   - human diversity
-  - india
+  - India
 - id: doi:10.1038/hdy.2008.89
   title: How accurate is the current picture of human genetic variation?
   authors:
@@ -1160,8 +1168,8 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - cftr
-  - hutterites
+  - CFTR
+  - Hutterites
 - id: doi:10.1101/gr.224436.117
   title: Impact of regulatory variation across human iPSCs and differentiated cells
   authors:
@@ -1244,7 +1252,7 @@
   date: '2022-01-01'
   link: https://doi.org/gtxwth
   tags:
-  - indonesia
+  - Indonesia
   - human diversity
   - gene regulation
   plugin: sources.py

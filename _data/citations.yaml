@@ -80,8 +80,10 @@
   date: '2023-12-01'
   link: https://doi.org/gs8zjp
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
 - id: doi:10.1126/science.adh0745
   title: Seeing humans through an evolutionary lens
   authors:
@@ -90,8 +92,10 @@
   date: '2023-04-28'
   link: https://doi.org/gtxwv2
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - perspective
 - id: doi:10.1101/2023.02.13.528361
   title: <i>Cis</i>-regulatory landscapes of the fat-tailed dunnart and mouse provide
     insights into the drivers of craniofacial heterochrony
@@ -116,8 +120,11 @@
   date: '2023-02-14'
   link: https://doi.org/gtxsrm
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - mpra
+  - human evolution
 - id: doi:10.1111/febs.15885
   title: Harnessing pluripotent stem cells as models to decipher human evolution
   authors:
@@ -127,8 +134,10 @@
   date: '2021-04-30'
   link: https://doi.org/gtxsrn
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - review
 - id: doi:10.1038/s41576-022-00469-6
   title: Genome-wide insights into human population structure
   authors:
@@ -137,8 +146,10 @@
   date: '2022-03-10'
   link: https://doi.org/gtxsrp
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - perspective
 - id: doi:10.1101/2022.04.24.489025
   title: The whole blood microbiome of Indonesians reveals translocated and pathogenic
     microbiota
@@ -189,8 +200,11 @@
   date: '2021-08-12'
   link: https://doi.org/gssngh
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - papua new guinea
+  - human evolution
 - id: doi:10.1101/2021.01.07.425684
   title: Transcriptomic profiles of <i>Plasmodium falciparum</i> and <i>Plasmodium
     vivax</i>-infected individuals in Indonesia
@@ -226,8 +240,12 @@
   date: '2020-05-26'
   link: https://doi.org/gjdt73
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - indonesia
+  - human diversity
+  - gene regulation
 - id: doi:10.1093/molbev/msz037
   title: Ancestry-Specific Analyses Reveal Differential Demographic Histories and
     Opposite Selective Pressures in Modern South Asian Populations
@@ -245,8 +263,10 @@
   date: '2019-04-05'
   link: https://doi.org/ggq53g
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human evolution
 - id: doi:10.1101/466631
   title: Widespread conservation of chromatin accessibility patterns and transcription
     factor binding in human and chimpanzee induced pluripotent stem cells
@@ -279,8 +299,11 @@
   date: '2015-01-19'
   link: https://doi.org/gkwc83
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - iPSCs
+  - gene regulation
 - id: doi:10.1038/nature18964
   title: 'The Simons Genome Diversity Project: 300 genomes from 142 diverse populations'
   authors:
@@ -367,8 +390,10 @@
   date: '2016-09-21'
   link: https://doi.org/f89kss
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
 - id: doi:10.1126/science.aab3761
   title: Global diversity, population stratification, and selection of human copy-number
     variation
@@ -428,8 +453,10 @@
   date: '2015-09-11'
   link: https://doi.org/f7q8ft
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
 - id: doi:10.7554/eLife.07103
   title: 'A panel of induced pluripotent stem cells from chimpanzees: a resource for
     comparative functional genomics'
@@ -458,8 +485,12 @@
   date: '2015-06-23'
   link: https://doi.org/gm9vdz
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - chimpanzee
+  - iPSCs
+  - resource
 - id: doi:10.1371/journal.pone.0118307
   title: Increased Risk of Genetic and Epigenetic Instability in Human Embryonic Stem
     Cells Associated with Specific Culture Conditions
@@ -491,8 +522,10 @@
   date: '2015-02-25'
   link: https://doi.org/f68jct
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - iPSCs
 - id: doi:10.1038/nature13673
   title: Ancient human genomes suggest three ancestral populations for present-day
     Europeans
@@ -621,8 +654,10 @@
   date: '2014-09-01'
   link: https://doi.org/w2w
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human evolution
 - id: doi:10.1371/journal.pone.0098076
   title: Genome-Wide Analysis of Cold Adaptation in Indigenous Siberian Populations
   authors:
@@ -647,8 +682,10 @@
   date: '2014-05-21'
   link: https://doi.org/f58gd9
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human evolution
 - id: doi:10.1371/journal.pgen.1003912
   title: The Light Skin Allele of SLC24A5 in South Asians and Europeans Shares Identity
     by Descent
@@ -677,8 +714,10 @@
   date: '2013-11-07'
   link: https://doi.org/gbfk5w
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
 - id: doi:10.1186/1471-2156-14-87
   title: A general linear model-based approach for inferring selection to climate
   authors:
@@ -691,8 +730,10 @@
   date: '2013-09-22'
   link: https://doi.org/gb3dnh
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - methods
 - id: doi:10.1111/ahg.12028
   title: Variation at Diabetes- and Obesity-Associated Loci May Mirror Neutral Patterns
     of Human Population Diversity and Diabetes Prevalence in India
@@ -716,8 +757,11 @@
   date: '2013-07-01'
   link: https://doi.org/f5p8kz
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
+  - india
 - id: doi:10.3378/027.085.0313
   title: 'Evolution of the Pygmy Phenotype: Evidence of Positive Selection from Genome-wide
     Scans in African, Asian, and Melanesian Pygmies'
@@ -750,8 +794,11 @@
   date: '2013-06-01'
   link: https://doi.org/gtxsrv
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human evolution
+  - human diversity
 - id: doi:10.1038/nrg3229
   title: Comparative studies of gene expression and the evolution of gene regulation
   authors:
@@ -762,8 +809,11 @@
   date: '2012-06-18'
   link: https://doi.org/f33cpq
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - review
+  - gene regulation
 - id: doi:10.1016/j.ajhg.2012.05.015
   title: Ethiopian Genetic Diversity Reveals Linguistic Stratification and Complex
     Influences on the Ethiopian Gene Pool
@@ -786,8 +836,10 @@
   date: '2012-07-01'
   link: https://doi.org/gcw8ph
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
 - id: doi:10.1007/s00439-011-1111-9
   title: Exploration of signals of positive selection derived from genotype-based
     human genome scans using re-sequencing data
@@ -815,8 +867,10 @@
   date: '2011-11-05'
   link: https://doi.org/bjnjgd
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - methods
 - id: doi:10.1126/science.1215040
   title: A Systematic Survey of Loss-of-Function Variants in Human Protein-Coding
     Genes
@@ -876,8 +930,10 @@
   date: '2012-02-17'
   link: https://doi.org/gfw8g2
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
 - id: doi:10.1016/j.ajhg.2011.11.010
   title: Shared and Unique Components of Human Population Structure and Genome-Wide
     Signals of Positive Selection in South Asia
@@ -901,8 +957,12 @@
   date: '2011-12-01'
   link: https://doi.org/fqh4jg
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human evolution
+  - india
+  - human diversity
 - id: doi:10.1093/molbev/msr190
   title: Herders of Indian and European Cattle Share Their Predominant Allele for
     Lactase Persistence
@@ -928,8 +988,12 @@
   date: '2011-08-11'
   link: https://doi.org/fw9j72
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human evolution
+  - india
+  - lactase persistence
 - id: doi:10.1126/science.1211177
   title: An Aboriginal Australian Genome Reveals Separate Human Dispersals into Asia
   authors:
@@ -995,8 +1059,11 @@
   date: '2011-10-07'
   link: https://doi.org/fk6gtq
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
+  - human evolution
 - id: doi:10.1093/molbev/msq288
   title: 'Population Genetic Structure in Indian Austroasiatic Speakers: The Role
     of Landscape Barriers and Sex-Specific Admixture'
@@ -1032,8 +1099,11 @@
   date: '2010-10-26'
   link: https://doi.org/cxck28
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
+  - india
 - id: doi:10.1038/ejhg.2009.168
   title: Traces of sub-Saharan and Middle Eastern lineages in Indian Muslim populations
   authors:
@@ -1053,8 +1123,11 @@
   date: '2009-10-07'
   link: https://doi.org/fw5j9r
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
+  - india
 - id: doi:10.1038/hdy.2008.89
   title: How accurate is the current picture of human genetic variation?
   authors:
@@ -1067,8 +1140,11 @@
   date: '2008-09-03'
   link: https://doi.org/cgnfkr
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - human diversity
+  - human evolution
 - id: doi:10.1007/s00439-007-0432-1
   title: CFTR mutations and reproductive outcomes in a population isolate
   authors:
@@ -1078,8 +1154,11 @@
   date: '2007-09-28'
   link: https://doi.org/c6jd3s
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - cftr
+  - hutterites
 - id: doi:10.1101/gr.224436.117
   title: Impact of regulatory variation across human iPSCs and differentiated cells
   authors:
@@ -1103,5 +1182,67 @@
   date: '2017-12-05'
   link: https://doi.org/gcn3ft
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - gene regulation
+  - iPSCs
+- id: doi:10.1186/1741-7007-12-42
+  title: 'RNA-seq: impact of RNA degradation on transcript quantification'
+  authors:
+  - Irene Gallego Romero
+  - Athma A Pai
+  - Jenny Tung
+  - Yoav Gilad
+  publisher: BMC Biology
+  date: '2014-05-30'
+  link: https://doi.org/f59ztg
+  tags:
+  - gene expression
+  - methods
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1010470
+  title: Denisovan introgression has shaped the immune system of present-day Papuans
+  authors:
+  - Davide M. Vespasiani
+  - Guy S. Jacobs
+  - Laura E. Cook
+  - Nicolas Brucato
+  - Matthew Leavesley
+  - Christopher Kinipi
+  - "Fran\xE7ois-Xavier Ricaut"
+  - Murray P. Cox
+  - Irene Gallego Romero
+  publisher: PLOS Genetics
+  date: '2022-12-08'
+  link: https://doi.org/grf6th
+  tags:
+  - denisovan introgression
+  - human diversity
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ajhg.2021.11.017
+  title: Genetic architecture of gene regulation in Indonesian populations identifies
+    QTLs associated with global and local ancestries
+  authors:
+  - Heini M. Natri
+  - Georgi Hudjashov
+  - Guy Jacobs
+  - Pradiptajati Kusuma
+  - Lauri Saag
+  - Chelzie Crenna Darusallam
+  - Mait Metspalu
+  - Herawati Sudoyo
+  - Murray P. Cox
+  - Irene Gallego Romero
+  - Nicholas E. Banovich
+  publisher: The American Journal of Human Genetics
+  date: '2022-01-01'
+  link: https://doi.org/gtxwth
+  tags:
+  - indonesia
+  - human diversity
+  - gene regulation
+  plugin: sources.py
+  file: sources.yaml

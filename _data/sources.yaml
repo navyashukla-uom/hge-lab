@@ -222,14 +222,14 @@
 # papers with title updates:
 
 - id: doi:10.46471/gigabyte.118 
-  title: '*De novo* transcriptome assembly and genome annotation of the fat-tailed dunnart (*Sminthopsis crassicaudata*)'
+  title: 'POTATOES *De novo* transcriptome assembly and genome annotation of the fat-tailed dunnart (*Sminthopsis crassicaudata*)'
   tags: 
     - marsupials
     - resource
 
 - id: doi:10.1101/2021.01.07.425684
   type: preprint
-  title: 'Transcriptomic profiles of *Plasmodium falciparum* and *Plasmodium vivax* -infected individuals in Indonesia'
+  title: Transcriptomic profiles of *Plasmodium falciparum* and *Plasmodium vivax* -infected individuals in Indonesia
   publisher: bioRxiv
   tags:
     - Indonesia

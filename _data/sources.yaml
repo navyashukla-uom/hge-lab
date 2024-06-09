@@ -215,3 +215,11 @@
   tags:
     - mpra 
     - human evolution
+
+# papers with title updates:
+
+- id: doi:10.46471/gigabyte.118 
+  title: '*De novo* transcriptome assembly and genome annotation of the fat-tailed dunnart (*Sminthopsis crassicaudata*)'
+  tags: 
+    - marsupials
+    - resource

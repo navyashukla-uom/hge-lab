@@ -1,3 +1,6 @@
+
+#update preprints
+
 - id: doi:10.1101/2024.04.11.24305690 
   type: preprint
   publisher: medRxiv
@@ -13,14 +16,36 @@
     - human diversity
 
 - id: doi:10.1101/2022.04.24.489025 
+  type: preprint
   publisher: bioRxiv
-  date: 2024-5-06
+  date: '2024-5-06'
   tags:
     - indonesia
     - microbiome
 
 - id: doi:10.1101/466631
+  type: preprint
   publisher: bioRxiv
   tags:
     - chimpanzees
     - iPSCs
+
+# remove duplicates:
+
+- id: doi:10.1101/2023.11.16.567318
+  remove: true
+
+- id: doi:10.1101/2021.06.27.450107
+  remove: true
+
+- id: doi:10.1101/2020.07.09.196444
+  remove: true
+
+- id: doi:10.1101/2020.09.25.313726
+  remove: true  
+
+- id: doi:10.1101/002261
+  remove: true
+
+- id: doi:10.1101/008862
+  remove: true

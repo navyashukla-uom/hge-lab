@@ -5,7 +5,7 @@
   tags:
     - denisovan introgression
 
-- title: Genetic diversity in Indonesia
+- title: Genetic diversity in Island Southeast Asia
   group: featured
   image: images/photo.jpg
   link: https://github.com/
@@ -14,12 +14,12 @@
   tags:
     - indonesia
 
-- title: Massively parallel reporter assays as tools in evolutionary biology
+- title: Multiplexed assays of variant effects as tools in evolutionary biology
   group: featured
   image: images/photo.jpg
-  description: MPRAs, which test the regulatory potential of thousands of genetic variants at once, have great potential as tools in evolutionary biology. We are fans of them at both the computational and experimental level.
+  description: We , which test the regulatory potential of thousands of genetic variants at once, have great potential as tools in evolutionary biology. We are fans of them at both the computational and experimental level.
   tags: 
-    - mpra
+    - MAVE
 
 - title: Quantifying human diversity in open data repositories
   subtitle: the stuff we do with moez and amanda
@@ -29,6 +29,5 @@
   repo: greenelab/lab-website-template
   tags:
     - human diversity
-    - publicatio
 
 

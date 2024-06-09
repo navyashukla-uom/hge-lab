@@ -1,6 +1,18 @@
 
 #update preprints
 
+- id: doi:10.1101/2021.01.07.425684
+  type: preprint
+  publisher: bioRxiv
+  tags:
+    - Indonesia
+
+- id: doi:10.1101/2023.02.13.528361
+  type: preprint
+  publisher: bioRxiv
+  tags:
+    - marsupials
+
 - id: doi:10.1101/2024.04.11.24305690 
   type: preprint
   publisher: medRxiv
@@ -219,24 +231,7 @@
     - MAVE
     - human evolution
 
-# papers with title updates:
-
 - id: doi:10.46471/gigabyte.118 
-  title: 'POTATOES *De novo* transcriptome assembly and genome annotation of the fat-tailed dunnart (*Sminthopsis crassicaudata*)'
   tags: 
     - marsupials
     - resource
-
-- id: doi:10.1101/2021.01.07.425684
-  type: preprint
-  title: Transcriptomic profiles of *Plasmodium falciparum* and *Plasmodium vivax* -infected individuals in Indonesia
-  publisher: bioRxiv
-  tags:
-    - Indonesia
-
-- id: doi:10.1101/2023.02.13.528361
-  type: preprint
-  title: '*Cis* -regulatory landscapes of the fat-tailed dunnart and mouse provide insight into the drivers of craniofacial heterochrony'
-  publisher: bioRxiv
-  tags:
-    - marsupials

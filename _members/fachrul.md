@@ -1,7 +1,7 @@
 ---
 name: Muhamad Fachrul
 image: images/team/fachrul.jpg
-role: Postdoctoral Researcher
+role: postdoc
 group: current
 links:
   github: [fachrulm](https://github.com/fachrulm)

@@ -1,6 +1,6 @@
 ---
 name: Pongsakorn (Vita) Sukonthamarn
-image: images/photo.jpg
+image: images/team/Vita.jpeg
 role: phd
 group: current
 links:

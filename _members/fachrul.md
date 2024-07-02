@@ -4,7 +4,7 @@ image: images/team/fachrul.jpg
 role: postdoc
 group: current
 links:
-  github: [fachrulm](https://github.com/fachrulm)
+  github: fachrulm
 ---
 
 My research focuses on the application of human functional genomics on underexplored populations and infectious disease models. Having worked with different omic data types, I have broad experience with analyzing bulk sequencing data and have keen interest in extending my skillset for single-cell context.
